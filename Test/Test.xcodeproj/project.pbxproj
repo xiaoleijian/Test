@@ -419,7 +419,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.uzai.uzaiLvYouCN;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "134a53db-e922-4cba-97de-64971308be64";
+				PROVISIONING_PROFILE = "e8a22660-c8f0-48ce-84a4-b65f33343000";
 			};
 			name = Debug;
 		};
@@ -433,7 +433,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.uzai.uzaiLvYouCN;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "134a53db-e922-4cba-97de-64971308be64";
+				PROVISIONING_PROFILE = "e8a22660-c8f0-48ce-84a4-b65f33343000";
 			};
 			name = Release;
 		};
@@ -504,6 +504,7 @@
 				ECDFEBCB1C9A9B0F005CBB94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECDFEBCC1C9A9B0F005CBB94 /* Build configuration list for PBXNativeTarget "TestTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +513,7 @@
 				ECDFEBCE1C9A9B0F005CBB94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECDFEBCF1C9A9B0F005CBB94 /* Build configuration list for PBXNativeTarget "TestUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +522,7 @@
 				ECDFEBD11C9A9B0F005CBB94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
