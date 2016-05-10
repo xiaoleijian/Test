@@ -419,7 +419,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.uzai.uzaiLvYouCN;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e8a22660-c8f0-48ce-84a4-b65f33343000";
+				PROVISIONING_PROFILE = "b24b63a3-987c-4831-8768-5ab4e8342fae";
 			};
 			name = Debug;
 		};
@@ -433,7 +433,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.uzai.uzaiLvYouCN;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e8a22660-c8f0-48ce-84a4-b65f33343000";
+				PROVISIONING_PROFILE = "b24b63a3-987c-4831-8768-5ab4e8342fae";
 			};
 			name = Release;
 		};
